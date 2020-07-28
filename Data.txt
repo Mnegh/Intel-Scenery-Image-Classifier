@@ -1,0 +1,8 @@
+Instructions for the Dataset:
+
+Download the dataset from the following kaggle link:
+https://www.kaggle.com/puneet6060/intel-image-classification
+the images in the training and test folders are to be merged together in one folder called "499 Project" and zipped with a zip file name "Dataset" and the prediction folder images are discareded due to them not being labeled.
+the resultant zip file is moved to the following directory in google drive My Drive/EE499/Project/Dataset.zip
+and is imported from google drive as mentioned in the above option or as in the notebook.
+
